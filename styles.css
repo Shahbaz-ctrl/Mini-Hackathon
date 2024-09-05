@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+.navimg{
+    margin-left: 50px;
+    display: flex;
+}
+
+.navlist{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+.btn1{
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+    background: none;
+    margin-bottom: 20px;
+}
+
+.main{
+    display: flex;
+    justify-content:space-evenly ;
+    gap: 40px;
+}
+
+.div1{
+    padding: 10px;
+    margin-left: 50px;
+
+}
+.p1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.btn2{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 50%;
+    border-radius: 0.5em;
+}
+
+.brands{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.div4{
+    display:flex ;
+    width: 50%;
+    padding: 20px;
+    margin-left: 100px;
+    gap: 20px;
+}
+
+.heading{
+    background-color: greenyellow;
+    color: black;
+    font-size: 40px;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.p3{
+    font-size: larger;
+    margin-top: -2px;
+}
+
+.main2{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+}
+.div5{
+    background-color: gainsboro;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 2em;
+}
+.div6{
+    background-color: yellowgreen;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 2em;
+}
+.p4{
+    color: black;
+    background-color: yellowgreen;
+    font-size: x-large;
+    width: fit-content;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.img1{
+    margin-left: 500px;
+}
+
+.btn3{
+    background: none;
+    font-size: larger;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.p5{
+    color: black;
+    background-color: white;
+    font-size: x-large;
+    width: fit-content;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.img2{
+    margin-left: 500px;
+}
+
+.btn4{
+    background: none;
+    font-size: larger;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
